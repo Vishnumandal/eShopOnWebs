@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-vishnu
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 0e66e02a-c251-4e9c-94ff-403f0434a
-  WEBAPP-NAME: Vishnu2
+  SUBSCRIPTION-ID: 0e66e02a-c251-4e9c-94ff-403f0434ad84
+  WEBAPP-NAME: Vishnu3
 
 
 jobs:
